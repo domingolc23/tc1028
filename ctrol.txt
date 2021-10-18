@@ -1,3 +1,3 @@
-1 este renglon es para el turno del jugador 
+3 este renglon es para el turno del jugador 
 2 este renglon es para el turno del jugador 1
 4 este renglon es para el turno del jugador 2
