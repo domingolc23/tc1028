@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-x 0 * * 0 x 0 0 * x 0 0 * x 0 x * x 0 x x x x x x
+x 0 * **0 x 0 0 * x 0 0 * x 0 x * x 0 x x x x x x
 =======
 x 0 0 0 0 x 0 0 0 x 0 0 * x 0 x * x 0 x x x x x $
 >>>>>>> ce587cb2371041b7c8e934ba876084ade8b825bb
